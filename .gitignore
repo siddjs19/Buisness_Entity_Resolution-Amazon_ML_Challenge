@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large datasets
+student_resource/dataset/
+
+# Generated results
+results/
+output/
+
+# IDE
+.vscode/
